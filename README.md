@@ -25,8 +25,8 @@ Display and compare the original, eroded, and dilated images.
 
  
 ## Program:
-## Developed by: C.DHANUSH
-## Reg NO: 212224040066
+## Developed by: Markandeyan Gokul
+## Reg NO: 212224240086
 
 ```
 import cv2
